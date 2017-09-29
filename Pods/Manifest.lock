@@ -1,0 +1,31 @@
+PODS:
+  - Alamofire (4.5.0)
+  - AlamofireObjectMapper (4.1.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 2.0)
+  - AutoLayoutHelperSwift (1.0.2)
+  - EZAlertController (3.2)
+  - OAuthSwift (1.1.2)
+  - ObjectMapper (2.2.8)
+  - URLNavigator (1.2.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - AlamofireObjectMapper (~> 4.0)
+  - AutoLayoutHelperSwift (~> 1.0.0)
+  - EZAlertController (= 3.2)
+  - OAuthSwift (~> 1.1.0)
+  - URLNavigator
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  AlamofireObjectMapper: 435adc82f5b367679bd9e71c4974a54efd0b2521
+  AutoLayoutHelperSwift: 61d0bb3d246937b074e79d1b0829c2812eea7819
+  EZAlertController: 633be01320bed47720be54054df47667d61c2481
+  OAuthSwift: 5aa5659984d3ca3206ba636a9e7a9c6626b2e8bd
+  ObjectMapper: 3d571bb5af471c779e1160828cd9ad5c4ef90958
+  URLNavigator: af69fc0aa2766eb1a45f7e0bab193fdd2354a402
+
+PODFILE CHECKSUM: 0133d734fe8e7467c2609167e7b58c0413bd854b
+
+COCOAPODS: 1.2.1
